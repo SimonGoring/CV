@@ -4,22 +4,22 @@ Simon James Goring - Curriculum vitae
 Contact
 --------
 Mail: Department of Geography, University of Wisconsin, 550 North Park St, Madison WI, 53706<br>
-Email: [goring@wisc.edu](mailto:goring@wisc.edu)<br>
-Twitter: [@sjgoring](https://twitter.com/sjgoring)<br>
-Website: [downwithtime](http://downwithtime.wordpress.com)<br>
-Phone: (608) 262-6523<br>
+Email:   [goring@wisc.edu](mailto:goring@wisc.edu)<br>
+Twitter:  [@sjgoring](https://twitter.com/sjgoring)<br>
+Website:  [downwithtime](http://downwithtime.wordpress.com)<br>
+Phone:    (608) 262-6523<br>
 
 EDUCATION
 ----------
-2012  \hspace{4mm} Ph.D. Biological Sciences, Simon Fraser University	Vancouver BC<br>
-\hspace{4mm} Holocene climate of British Columbia using pollen-based climate reconstruction	[Link](https://theses.lib.sfu.ca/thesis/etd7035)<br>
-2003 \hspace{4mm} B.Sc. Plant Science, University of Northern British Columbia	Prince George, BC<br>
-1999 \hspace{4mm} Forest Technician Diploma, Sir Sandford Fleming College	Lindsay, ON
+2012   <tab id=t1>Ph.D. Biological Sciences, Simon Fraser University	Vancouver BC<br>
+<tab to=t1>Holocene climate of British Columbia using pollen-based climate reconstruction	[Link](https://theses.lib.sfu.ca/thesis/etd7035)<br>
+2003<tab to=t1>B.Sc. Plant Science, University of Northern British Columbia	Prince George, BC<br>
+1999<tab to=t1>Forest Technician Diploma, Sir Sandford Fleming College	Lindsay, ON
 
 
 PROFESSIONAL EXPERIENCE
 -----------------------
-2011 - \hspace{4mm} Post-Doctoral Researcher, NSF-funded PalEON Project	July 2011 – Current, Department of Geography, University of Wisconsin - Madison	Madison, WI<br>
+2011<tab to=t1>Post-Doctoral Researcher, NSF-funded PalEON Project	July 2011 – Current, Department of Geography, University of Wisconsin - Madison	Madison, WI<br>
 
 ###Research Positions
 
@@ -32,9 +32,7 @@ Dr. Dale Vitt (University of Alberta)	May – August 2000<br>
 Publications
 -------------
 Alternative Publication Metrics (AltMetrics):<br>
-[ImpactStory](https://impactstory.org/user51729)<br>
-[Google Citations](http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en)<br>
-[ORCiD](http://orcid.org/0000-0002-2700-4605)<br>
+[ImpactStory](https://impactstory.org/user51729)  [Google Citations](http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en)  [ORCiD](http://orcid.org/0000-0002-2700-4605)<br>
 
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Weathers K, Dodds W, Cheruvelil K, Kominoski J, Rüegg J, Sweet L, Utz R. 2014. The collaborative culture of Macrosystems Ecology: Optimizing participant benefits.  Frontiers in Ecology and the Environment. 12:39-47. [Open Access](http://dx.doi.org/10.1890/120370)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Cheruvelil KS, Soranno PA, Weathers KC, Hanson PC, Goring S. Creating and maintaining high-performing collaborative research teams: the importance of diversity and socio-cognitive skills.  Frontiers in Ecology and the Environment. 12:31-38. [Open Access](http://dx.doi.org/10.1890/130001)<br>
@@ -50,7 +48,14 @@ Alternative Publication Metrics (AltMetrics):<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Lacourse T, Pellatt MG, Walker IR, Mathewes RW. 2010. Are pollen-based climate models improved by combining surface samples from soil and lacustrine substrates? Review of Paleobotany and Palynology. 162: 203-212. [link](http://dx.doi.org/10.1016/j.revpalbo.2010.06.014)
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dormoy I, Peyron O, Combourieu-Nebout N, Goring S, Kotthoff U, Magny M, Pross J. 2009. Terrestrial climate variability and seasonality changes in the Mediterranean region between 15,000 and 4,000 years BP deduced from marine pollen records. Climate of the Past. 5: 615-632. [Open Access](http://dx.doi.org/10.5194/cp-5-615-2009)
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Pellatt MG, Lacourse T, Walker IR, Mathewes RW. 2009. A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. Journal of Biogeography. 36: 626-638. [Link](http://dx.doi.org/10.1111/j.1365-2699.2008.02021.x)
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. 2007. Pollination, Floral Display, and the Ecological Correlates of Polyploidy. Functional Ecosystems and Communities. 1: 1-9. [Open Access](http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1(1)1-9.pdf)
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. 2007. Pollination, Floral Display, and the Ecological Correlates of Polyploidy. Functional Ecosystems and Communities. 1: 1-9. [Open Access](http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf)
+
+SUBMITTED
+--------
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in Forest Composition, Stem Density, and Biomass from the Settlement Era to Present in for the Upper Midwestern United States.  Journal of Biogeography. [link]
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.  Global Change Biology.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. Annals of the Association of American Geographers.
+
 
 SOFTWARE
 --------
@@ -65,12 +70,12 @@ COMMENTS, BOOK CHAPTERS & OTHER ARTICLES
 
 GRANTS
 ------
-###Completed
+### Completed
 
 2013	NSF Research Experiences for Undergraduates - co-PI (awarded $8400)
 2012	NSF Research Experiences for Undergraduates - co-PI (awarded $8400)
 
-###Unfunded
+### Unfunded
 
 2014  Pollen: Field, Laboratory, and Data Analysis workshop, University of Maine (PAGES, $10,000)
 2013	Building Interoperable Cyberinfrastructure (CI) at the Interface between Paleogeoinformatics and Bioinformatics – co-PI (NSF Geoinfomatics, $1,500,000)
@@ -86,7 +91,7 @@ INVITED PRESENTATIONS AND WORKSHOPS
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Williams JW, Ruid M, MacLachlan JS, Jackson ST, Paciorek CJ, Thurman A, Zhu J, Brooks W, Mladenoff DJ, Cogbill C, Record S, Dietze MC. What the Public Lands Survey can tell us about climate change, vegetation and models of future (and past) change. Quaternary Paleoecology Series. University of Minnesota. April 10, 2013.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Williams JW, Ruid M, MacLachlan JS, Jackson ST, Paciorek CJ, Thurman A, Zhu J, Brooks W, Mladenoff DJ, Cogbill C, Record S, Dietze MC. Using the past to predict the future: The Public Land Survey, 19th century climate and the PalEON Project. Yi-Fu Tuan Seminar Series. University of Wisconsin – Madison. February 15, 2013 [Link]
 
-###Declined:
+### Declined:
 2014  Ecological Society of America: Invited presentation: Interdisciplinary research and early career researchers.
 2014	CIEE Thematic Program: Canada’s phylogenetic diversity in a changing world. University of Saskachewan, July 2014
 
@@ -138,13 +143,13 @@ AWARDS AND RECOGNITION
 
 UNIVERSITY, ACADEMIC AND PUBLIC SERVICE
 ---------------------------------------
-###University Service
+### University Service
 
 2009	Biological Sciences Graduate Student Council (SFU)
 2006	Faculty Search Committee – Two NSERC Canada Research Chair Tier II positions (SFU)
 2002 – 2004	Student Senator:  Member of the Senate Committees for University Budget & Library (UNBC)
 
-###Academic Service
+### Academic Service
 
 2013  Editorial Board - Open Quaternary
 2013	Review Editor – Frontiers in Ecology and Evolution: Paleoecology
@@ -154,11 +159,11 @@ UNIVERSITY, ACADEMIC AND PUBLIC SERVICE
 2010		Neotoma Consortium Workshop, Participant, Madison, WI
 2009		AASP – The Palynological Society Annual Meeting – Copy editor
 
-###Reviewer
+### Reviewer
 
 Climate of the Past, Journal of Biogeography, Earth Science Reviews, Open Ecology Journal, Quaternary Science Reviews, Ecology Letters, PLOS One, Environmental Modelling and Software, Journal of Ecology, Frontiers in Ecology and Evolution: Paleoecology
 
-###Public Service
+### Public Service
 
 2011		Big Brothers, In-School Mentoring Program, Vancouver, BC (since 2005)
 2010		Why is Paleoecology Awesome? (Talk) East Side High School, Vancouver, BC
