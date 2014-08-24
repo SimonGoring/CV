@@ -17,7 +17,8 @@ EDUCATION
 
 PROFESSIONAL EXPERIENCE
 -----------------------
-**July 2011 – Current**, Post-Doctoral Researcher, NSF-funded PalEON Project.  Department of Geography, University of Wisconsin.	Madison, WI<br>
+**July 2014 – Current**, Assistant Scientist, NSF-funded PalEON Project.  Department of Geography, University of Wisconsin.	Madison, WI<br>
+**July 2011 – July 2014**, Post-Doctoral Researcher, NSF-funded PalEON Project.  Department of Geography, University of Wisconsin.	Madison, WI<br>
 
 ### Research Positions
 
