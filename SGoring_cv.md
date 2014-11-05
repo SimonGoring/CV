@@ -33,6 +33,8 @@ Publications
 Alternative Publication Metrics (AltMetrics):<br>
 [ImpactStory](https://impactstory.org/user51729)  [Google Citations](http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en)  [ORCiD](http://orcid.org/0000-0002-2700-4605)<br>
 
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Corimbourieu-Nebout N, Bertini A, Russo-Ermolli E, Peyron O, Klotz S, Montage V, Fauquette S, Allen J, Fusco F, Goring S, Huntley B, Joannin S, Lebreton V, Magri D, Orain R, Sadori L.  Increasing dryness in central Mediterranean and Italian vegetation dynamics since the Pliocene.  Review of Palaeobotany and Palynology. Accepted: PALBO3053<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. Annals of the Association of American Geographers. Accepted: AN-2014-0079<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Weathers K, Dodds W, Cheruvelil K, Kominoski J, Rüegg J, Sweet L, Utz R. 2014. The collaborative culture of Macrosystems Ecology: Optimizing participant benefits.  *Frontiers in Ecology and the Environment*. **12**:39-47. [Open Access](http://dx.doi.org/10.1890/120370)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Cheruvelil KS, Soranno PA, Weathers KC, Hanson PC, Goring S. Creating and maintaining high-performing collaborative research teams: the importance of diversity and socio-cognitive skills.  *Frontiers in Ecology and the Environment*. **12**:31-38. [Open Access](http://dx.doi.org/10.1890/130001)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Heffernan J, Soranno P, Angilletta M, Buckley L, Dodds W, Harms T, Keitt T, Knapp A, Kominoski J, McDowell B, Powell H, Xiao J, Gruner D, Goring S, Koenig L, Kellner J, Richardson A, Rocha A, Stow C, Vargas R, Weathers K. What is macrosystems ecology? *Frontiers in Ecology and the Environment*. **12**:5-14. [Open Access](http://dx.doi.org/10.1890/130017)<br>
@@ -51,9 +53,12 @@ Alternative Publication Metrics (AltMetrics):<br>
 
 SUBMITTED
 --------
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in Forest Composition, Stem Density, and Biomass from the Settlement Era to Present in for the Upper Midwestern United States.  *Journal of Biogeography*. [link]
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.  *Global Change Biology*.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. *Annals of the Association of American Geographers*.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Dawson A, Williams JW, Simpson G, Grimm EC, Dawson R. neotoma: A programmatic interface to the Neotoma Paleoecological database. *Open Quaternary* [link](https://github.com/SimonGoring/neotoma_paper/blob/master/Neotoma_paper.pdf?raw=true)
+
+SUBSTANTIALLY IN PREPARATION
+---------
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in Forest Composition, Stem Density, and Biomass from the Settlement Era to Present in for the Upper Midwestern United States.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.
 
 
 SOFTWARE
