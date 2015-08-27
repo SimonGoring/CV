@@ -31,15 +31,16 @@ Dr. Dale Vitt (University of Alberta)	May – August 2000<br>
 Publications
 -------------
 Alternative Publication Metrics (AltMetrics):<br>
-[ImpactStory](https://impactstory.org/user51729)  [Google Citations](http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en)  [ORCiD](http://orcid.org/0000-0002-2700-4605)<br>
+[ImpactStory](https://impactstory.org/SimonGoring)  [Google Citations](http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en)  [ORCiD](http://orcid.org/0000-0002-2700-4605)<br>
 
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Corimbourieu-Nebout N, Bertini A, Russo-Ermolli E, Peyron O, Klotz S, Montage V, Fauquette S, Allen J, Fusco F, Goring S, Huntley B, Joannin S, Lebreton V, Magri D, Orain R, Sadori L.  Increasing dryness in central Mediterranean and Italian vegetation dynamics since the Pliocene.  Review of Palaeobotany and Palynology. Accepted: PALBO3053<br>
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. Annals of the Association of American Geographers. Accepted: AN-2014-0079<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Dawson A, Williams JW, Simpson G, Grimm EC, Dawson R. 2015. neotoma: A programmatic interface to the Neotoma Paleoecological database. Open Quaternary 1:2. [Open Access](http://www.openquaternary.com/article/10.5334/oq.ab/)
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Corimbourieu-Nebout N, Bertini A, Russo-Ermolli E, Peyron O, Klotz S, Montage V, Fauquette S, Allen J, Fusco F, Goring S, Huntley B, Joannin S, Lebreton V, Magri D, Orain R, Sadori L.  Increasing dryness in central Mediterranean and Italian vegetation dynamics since the Pliocene.  Review of Palaeobotany and Palynology. 218:127-147. [link](http://www.sciencedirect.com/science/article/pii/S0034666715000433)<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. <i>in press</i>. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. Annals of the Association of American Geographers. [link](http://dx.doi.org/10.1080/00045608.2015.1064457)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Weathers K, Dodds W, Cheruvelil K, Kominoski J, Rüegg J, Sweet L, Utz R. 2014. The collaborative culture of Macrosystems Ecology: Optimizing participant benefits.  *Frontiers in Ecology and the Environment*. **12**:39-47. [Open Access](http://dx.doi.org/10.1890/120370)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Cheruvelil KS, Soranno PA, Weathers KC, Hanson PC, Goring S. Creating and maintaining high-performing collaborative research teams: the importance of diversity and socio-cognitive skills.  *Frontiers in Ecology and the Environment*. **12**:31-38. [Open Access](http://dx.doi.org/10.1890/130001)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Heffernan J, Soranno P, Angilletta M, Buckley L, Dodds W, Harms T, Keitt T, Knapp A, Kominoski J, McDowell B, Powell H, Xiao J, Gruner D, Goring S, Koenig L, Kellner J, Richardson A, Rocha A, Stow C, Vargas R, Weathers K. What is macrosystems ecology? *Frontiers in Ecology and the Environment*. **12**:5-14. [Open Access](http://dx.doi.org/10.1890/130017)<br>
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Combourieu-Nebout N, Peyron O, Bout-Roumazeilles V, Goring S, Dormoy I, Joannin S, Sadori L, Siani G, Magny M. 2013. Holocene vegetation and climate changes in central Mediterranean inferred from a high-resolution marine pollen record (Adriatic Sea). *Climate of the Past*. **9**:2023-2042. [Open Access](http://www.clim-past.net/9/2023/2013/cp-9-2023-2013.html)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Lacourse T, Pellatt MG, Mathewes RW. 2013. Pollen assemblage richness does not reflect regional plant species richness: a cautionary tale.  *Journal of Ecology*. **101**:1125-1136. [link](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12135/full), [Data and R Code](https://github.com/SimonGoring/GoringetalPollenRichness)<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Combourieu-Nebout N, Peyron O, Bout-Roumazeilles V, Goring S, Dormoy I, Joannin S, Sadori L, Siani G, Magny M. 2013. Holocene vegetation and climate changes in central Mediterranean inferred from a high-resolution marine pollen record (Adriatic Sea). *Climate of the Past*. **9**:2023-2042. [Open Access](http://www.clim-past.net/9/2023/2013/cp-9-2023-2013.html)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Gill JL, McLauchlan KK, Skibbe AM, Goring SJ, Williams JW. 2013. Linking abundances of the dung fungus Sporormiella to the density of Plains bison: Implications for assessing grazing by megaherbivores in the paleorecord.  *Journal of Ecology*. **101**:1125-1136. [link](http://dx.doi.org/10.1111/1365-2745.12130)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Peyron O, Magny M, Goring S, Joannin S, de Beaulieu J-L, Brugiapaglia E, Sadori L, Garfi G, Kouli K, Combourieu-Nebout N.  2013. Contrasting patterns of climatic changes during the Holocene in the central Mediterranean (Italy) reconstructed from pollen data.  *Climate of the Past*. **9**:1233-1252. [Open Access](http://www.clim-past.net/9/1233/2013/cp-9-1233-2013.html)<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Williams JW, Blois JL, Jackson S, Paciorek CJ, Booth RK, Marlon JR, Blaauw M, Christen JA. 2012.  Deposition times in the northeastern United States during the Holocene: establishing valid priors for Bayesian age models. *Quaternary Science Reviews*. **48**:54-60. [link](http://dx.doi.org/10.1016/j.quascirev.2012.05.019), [Data and R Code](https://github.com/SimonGoring/Goringetal2012_Sedimentation)<br>
@@ -50,16 +51,6 @@ Alternative Publication Metrics (AltMetrics):<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dormoy I, Peyron O, Combourieu-Nebout N, Goring S, Kotthoff U, Magny M, Pross J. 2009. Terrestrial climate variability and seasonality changes in the Mediterranean region between 15,000 and 4,000 years BP deduced from marine pollen records. *Climate of the Past*. **5**: 615-632. [Open Access](http://dx.doi.org/10.5194/cp-5-615-2009)
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Pellatt MG, Lacourse T, Walker IR, Mathewes RW. 2009. A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. *Journal of Biogeography*. **36**:626-638. [Link](http://dx.doi.org/10.1111/j.1365-2699.2008.02021.x)
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. 2007. Pollination, Floral Display, and the Ecological Correlates of Polyploidy. *Functional Ecosystems and Communities*. **1**: 1-9. [Open Access](http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf)
-
-SUBMITTED
---------
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Dawson A, Williams JW, Simpson G, Grimm EC, Dawson R. neotoma: A programmatic interface to the Neotoma Paleoecological database. *Open Quaternary* [link](https://github.com/SimonGoring/neotoma_paper/blob/master/Neotoma_paper.pdf?raw=true)
-
-SUBSTANTIALLY IN PREPARATION
----------
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in Forest Composition, Stem Density, and Biomass from the Settlement Era to Present in for the Upper Midwestern United States.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.
-
 
 SOFTWARE
 --------
@@ -74,6 +65,12 @@ COMMENTS, BOOK CHAPTERS & OTHER ARTICLES
 
 GRANTS
 ------
+### In Progress
+
+**2015**	Building Interoperable Cyberinfrastructure (CI) at the Interface between Paleogeoinformatics and Bioinformatics - co-PI ($900,000 – NSF EarthCube Integrative Activities)
+**2014**	Climate Prediction in No-Analogue Space – PI (Amazon Web Services in Education Grant, 1yr – $6000)
+**2014**	Memorandum of Understanding – United States Forest Service Forest Inventory and Analysis Program
+
 ### Completed
 
 **2013**	NSF Research Experiences for Undergraduates - co-PI (awarded $8400)
@@ -81,7 +78,9 @@ GRANTS
 
 ### Unfunded
 
-**2014**  Pollen: Field, Laboratory, and Data Analysis workshop, University of Maine (PAGES, $10,000)
+**2015**	Chains of Provenance: Linking geoscientific archives, repositories, and analysis - PI ($586,000 – NSF EarthCube Integrative Activities)
+**2014**	Building Interoperable Cyberinfrastructure at the Interface between Paleogeoinformatics and Bioinformatics – co-PI (NSF Advances in Biological Informatics, 2yr – $1,500,000)
+**2014**	Pollen: Field, Laboratory, and Data Analysis workshop, University of Maine (PAGES, $10,000)
 **2013**	Building Interoperable Cyberinfrastructure (CI) at the Interface between Paleogeoinformatics and Bioinformatics – co-PI (NSF Geoinfomatics, $1,500,000)
 
  
@@ -118,7 +117,8 @@ Williams JW, Goring S, Brooks W, Cogbill C, Dietze M, Jackson S, McLachlan J, Ml
 
 TEACHING
 --------
-2014  Pollen: Field, Laboratory, and Data Analysis workshop.  Instructor & co-lead.  University of Maine, June 2014<br>
+2015	Introduction to Geocomputing (GEOG378). Instructor - online course, University of Wisconsin - Madison<br>
+2014	Pollen: Field, Laboratory, and Data Analysis workshop.  Instructor & co-lead.  University of Maine, June 2014<br>
 2013	Climatic Environments of the Past	University of Wisconsin – Madison
 	Guest lecturer (Dating Techniques, The Anthropocene)<br>
 2013	Quaternary Vegetation Dynamics	University of Wisconsin – Madison
@@ -134,6 +134,8 @@ TEACHING
 
 AWARDS AND RECOGNITION
 ----------------------
+2015	Climate Informatics 2015 ($1100 Travel Grant - National)
+2015	EarthCube Early Career Travel Grant ($500 - National)
 2011	CANQUA – Alexis Dreimanis Award ($2000 – National Scholarship)<br>
 2011	President's Research Stipend ($6,250 –Simon Fraser University)<br>
 2009	NSERC PGS-D3 Scholarship ($63,000 – National Scholarship)<br>
@@ -155,7 +157,11 @@ UNIVERSITY, ACADEMIC AND PUBLIC SERVICE
 
 ### Academic Service
 
-2013  Editorial Board - Open Quaternary<br>
+2015	Program Committee – Climate Informatics 2015
+2015	Developed the Early Career Travel Grant program for EarthCube.
+2014 - 2015	Organizing Committee – NSF EarthCube All Hands Meeting
+2014 - 2015	Engagement Team – NSF EarthCube Program
+2013	Editorial Board - Open Quaternary<br>
 2013	Review Editor – Frontiers in Ecology and Evolution: Paleoecology<br>
 2013	PalEON Settlement Vegetation Workshop Organizer, Madison, WI<br>
 2012 – 2016	Canadian Association of Palynologists Executive, International Federation of Palynological Societies representative<br>
@@ -169,6 +175,7 @@ Climate of the Past, Journal of Biogeography, Earth Science Reviews, Open Ecolog
 
 ### Public Service
 
+2015		Storytelling with Data – An introduction to data science (Two half day workshops) IT Academy, University of Wisconsin, Madison, WI.
 2011		Big Brothers, In-School Mentoring Program, Vancouver, BC (since 2005)<br>
 2010		Why is Paleoecology Awesome? (Talk) East Side High School, Vancouver, BC<br>
 2009 		Royal Canadian Mounted Police: Forensic analysis of pollen assemblages.<br>
