@@ -98,8 +98,8 @@ Alternative Publication Metrics (AltMetrics):
 Accepted - In Revision
 --------
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.  *Global Change Biology*.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, et al. Statistically-estimated tree composition for the northeastern United States at the time of Euro-American settlement. PLoS One. [[preprint](http://arxiv.org/abs/1508.07509), PONE-D-15-41521]<br>
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. Calibrating the pollen vegetation relationship. Quaternary Science Reviews. [JQSR-D-15-00503]<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, et al. Statistically-estimated tree composition for the northeastern United States at the time of Euro-American settlement. *PLoS One*. [[preprint](http://arxiv.org/abs/1508.07509), PONE-D-15-41521]<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. Calibrating the pollen vegetation relationship. *Quaternary Science Reviews*. [JQSR-D-15-00503]<br>
 
 In Review
 --------
@@ -145,7 +145,7 @@ TEACHING
 **2012**	Conservation Paleoecology	University of Wisconsin – Madison Seminar, co-instruction with J. Williams, J. Blois, A. Ordonez.<br>
 **2012**	Camp PalEON	University of Notre Dame Environmental Research Center. Age-depth modeling unit, support for student projects & lake coring module.<br>
 **2009**	Using R for Paleoecological Research	University of the Fraser Valley, Abbotsford, BC. One day seminar introducing R workflows for paleoecological research<br>
-2008 	Paleobiology and Palynology (TA)	Simon Fraser University<br>
+**2008** 	Paleobiology and Palynology (TA)	Simon Fraser University<br>
 **2007**	General Biology (TA)	Simon Fraser University<br>
  
 INVITED PRESENTATIONS AND WORKSHOPS
@@ -164,16 +164,16 @@ INVITED PRESENTATIONS AND WORKSHOPS
 
 PRESENTATIONS - 1ST AUTHOR
 --------------------------
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S*, Williams JW, Ruid M, MacLachlan JS, Jackson ST, Paciorek CJ, Thurman A, Zhu J, Brooks W, Mladenoff DJ, Cogbill C, Record S, Dietze MC.  Estimating pre-settlement vegetation in the American Midwest: Exploring climate relationships and links to proxy data for robust data assimilation. International Biogeography Society Biennial Meeting. January 2013, Miami, FL.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S*.  Holocene reconstructions for British Columbia, Canada using pollen as a proxy for climate: applications, validation and trepidation.  Climate People and the Environment Program Seminar Series.  Feb 24, 2012.  Madison, WI. 
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S*, Mathewes R. Towards a comprehensive Holocene temperature and precipitation record for British Columbia using a pollen-based multi-method approach.  CANQUA - GeoHydro 2011. August 28 – September 1, 2011. Quebec City, QC.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S*, Mathewes RW, Lacourse T, Pellatt MG. Match and Mismatch:  Pollen-Based Climate Reconstruction and the Instrumental Records from Southwestern British Columbia, Canada.  8th European Paleobotany – Palynology Conference.  July 2010.  Budapest, Hungary.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ*, Lacourse T, Pellatt MG, Walker IR & RW Mathewes. Multivariate climate reconstruction using a modern pollen database for British Columbia. IPC/IOPC. August 31, 2008. Bonn, Germany.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ* & RW Mathewes. Southwestern British Columbia Revisited: Paleoclimatic History. Botany 2008. July 28, 2008.  Vancouver, British Columbia.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Williams JW, Ruid M, MacLachlan JS, Jackson ST, Paciorek CJ, Thurman A, Zhu J, Brooks W, Mladenoff DJ, Cogbill C, Record S, Dietze MC.  Estimating pre-settlement vegetation in the American Midwest: Exploring climate relationships and links to proxy data for robust data assimilation. International Biogeography Society Biennial Meeting. January 2013, Miami, FL.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S.  Holocene reconstructions for British Columbia, Canada using pollen as a proxy for climate: applications, validation and trepidation.  Climate People and the Environment Program Seminar Series.  Feb 24, 2012.  Madison, WI. 
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Mathewes R. Towards a comprehensive Holocene temperature and precipitation record for British Columbia using a pollen-based multi-method approach.  CANQUA - GeoHydro 2011. August 28 – September 1, 2011. Quebec City, QC.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Mathewes RW, Lacourse T, Pellatt MG. Match and Mismatch:  Pollen-Based Climate Reconstruction and the Instrumental Records from Southwestern British Columbia, Canada.  8th European Paleobotany – Palynology Conference.  July 2010.  Budapest, Hungary.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Lacourse T, Pellatt MG, Walker IR & RW Mathewes. Multivariate climate reconstruction using a modern pollen database for British Columbia. IPC/IOPC. August 31, 2008. Bonn, Germany.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ & RW Mathewes. Southwestern British Columbia Revisited: Paleoclimatic History. Botany 2008. July 28, 2008.  Vancouver, British Columbia.
 
 SELECTED CONFERENCE POSTERS
 ---------------------------
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S*, et al.  Effects of Euro-American settlement and historic climate variability on species-climate relationships and the co-occurrence of dominant tree species. American Geophysical Union (AGU) Fall Meeting, December 2013, San Francisco, CA.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, et al.  Effects of Euro-American settlement and historic climate variability on species-climate relationships and the co-occurrence of dominant tree species. American Geophysical Union (AGU) Fall Meeting, December 2013, San Francisco, CA.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Williams JW, Goring S, Brooks W, Cogbill C, Dietze M, Jackson S, McLachlan J, Mladenoff D, Paciorek C, Thurman A, Zhu J and PalEON Participants.  Forest composition and biomass at Euroamerican settlement in the upper Great Lakes.  AGU Fall Meeting, Dec. 2012.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Dietze MC, Jackson ST, Mladenoff D, Cogbill C, Zhu J, Thurman A, Brooks W.  Reliable gridded estimates of pre-settlement vegetation for the Upper Midwest from Public Land Survey Data.  American Quaternary Association Meeting, June 2012.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Lacourse T, Pellatt MG, & RW Mathewes. How sensitive are pollen-based climate models to large-scale vegetation change?  An example from Marion Lake, British Columbia. CANQUA. May 4-8th 2009.  Vancouver, British Columbia.
@@ -191,8 +191,8 @@ AWARDS AND RECOGNITION
 **2008**	Canadian Society of Ecology and Evolution, Poster Award ($500)<br>
 **2008**	Simon Fraser University Graduate Fellowship ($6000)<br>
 **2007**	Iowa Lakeside Laboratory Scholarship ($390 - Iowa State University)<br>
-**2004**		van Adrichem Summer Research Bursary ($600 - UNBC)<br>
-**1999**		JB Goodhew Award (Recognition, Sir Sanford Fleming College)<br>
+**2004**	van Adrichem Summer Research Bursary ($600 - UNBC)<br>
+**1999**	JB Goodhew Award (Recognition, Sir Sanford Fleming College)<br>
 
 UNIVERSITY, ACADEMIC AND PUBLIC SERVICE
 ---------------------------------------
@@ -217,10 +217,17 @@ UNIVERSITY, ACADEMIC AND PUBLIC SERVICE
 **2009**	AASP – The Palynological Society Annual Meeting – Copy editor<br>
 
 ### Reviewer
-Climate of the Past, Journal of Biogeography, Earth Science Reviews, Open Ecology Journal, Quaternary Science Reviews, Ecology Letters, PLOS One, Environmental Modelling and Software, Journal of Ecology, Frontiers in Ecology and Evolution: Paleoecology, American Midland Naturalist
+#### Ecology
+*Ecology Letters*; *Journal of Biogeography*; *Open Ecology Journal*; *Journal of Ecology*; *Environmental Modelling and Software*; *American Midland Naturalist*
+
+#### Earth Sciences
+*Climate of the Past*; *Earth Science Reviews*; *Quaternary Science Reviews*; *Frontiers in Ecology and Evolution: Paleoecology*; *Geology*
+
+#### Interdisciplinary
+ *PLOS One*
 
 ### Public Service
-**2015**	Storytelling with Data – An introduction to data science (Two half day workshops) IT Academy, University of Wisconsin, Madison, WI.
+**2015**	Storytelling with Data – An introduction to data science (Two half day workshops) IT Academy, University of Wisconsin, Madison, WI.<br>
 **2011**	Big Brothers, In-School Mentoring Program, Vancouver, BC (since 2005)<br>
 **2010**	Why is Paleoecology Awesome? (Talk) East Side High School, Vancouver, BC<br>
 **2009**	Royal Canadian Mounted Police: Forensic analysis of pollen assemblages.<br>
