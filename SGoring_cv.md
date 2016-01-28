@@ -76,6 +76,15 @@ Alternative Publication Metrics (AltMetrics):
 * [Google Citations](http://scholar.google.com/citations?user=Q3ekwgkAAAAJ&hl=en)
 * [ORCiD](http://orcid.org/0000-0002-2700-4605)
 
+Accepted
+--------
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in forest composition, stem density, and biomass from the settlement era (1800s) to present in the Upper Midwestern United States. *PLoS One*. [[Preprint](http://biorxiv.org/content/early/2015/09/11/026575), PONE-D-15-43554]<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.  *Global Change Biology*.
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, et al. Statistically-estimated tree composition for the northeastern United States at the time of Euro-American settlement. *PLoS One*. [[preprint](http://arxiv.org/abs/1508.07509), PONE-D-15-41521]<br>
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. Calibrating the pollen vegetation relationship. *Quaternary Science Reviews*. [JQSR-D-15-00503]<br>
+
+Published
+----------
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Dawson A, Williams JW, Simpson G, Grimm EC, Dawson R. 2015. neotoma: A programmatic interface to the Neotoma Paleoecological database. *Open Quaternary* **1**:2. [[Open Access](http://www.openquaternary.com/article/10.5334/oq.ab/)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Corimbourieu-Nebout N, Bertini A, Russo-Ermolli E, Peyron O, Klotz S, Montage V, Fauquette S, Allen J, Fusco F, Goring S, Huntley B, Joannin S, Lebreton V, Magri D, Orain R, Sadori L.  2015. Climate changes in the central Mediterranean and Italian vegetation dynamics since the Pliocene.  *Review of Palaeobotany and Palynology*. **218**:127-147. [[Link](http://www.sciencedirect.com/science/article/pii/S0034666715000433)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Walsh MK, Marlon JR, Goring S, Brown KJ, Gavin D. 2015. A regional perspective on Holocene on fire-climate-human interactions in the Pacific Northwest. *Annals of the Association of American Geographers*. **105**:1135-1157. [[Link](http://www.tandfonline.com/doi/abs/10.1080/00045608.2015.1064457), [Code](https://github.com/SimonGoring/Walsh_etal_PNWFire/tree/1.0)]<br>
@@ -94,13 +103,6 @@ Alternative Publication Metrics (AltMetrics):
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dormoy I, Peyron O, Combourieu-Nebout N, Goring S, Kotthoff U, Magny M, Pross J. (2009) Terrestrial climate variability and seasonality changes in the Mediterranean region between 15,000 and 4,000 years BP deduced from marine pollen records. *Climate of the Past*. **5**: 615-632. [[Open Access](http://dx.doi.org/10.5194/cp-5-615-2009)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Pellatt MG, Lacourse T, Walker IR, Mathewes RW. (2009) A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. *Journal of Biogeography*. **36**:626-638. [[Link](http://dx.doi.org/10.1111/j.1365-2699.2008.02021.x)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. (2007) Pollination, Floral Display, and the Ecological Correlates of Polyploidy. *Functional Ecosystems and Communities*. **1**: 1-9. [[Open Access](http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf)]<br>
-
-Accepted
---------
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in forest composition, stem density, and biomass from the settlement era (1800s) to present in the Upper Midwestern United States. *PLoS One*. [[Preprint](http://biorxiv.org/content/early/2015/09/11/026575), PONE-D-15-43554]<br>
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.  *Global Change Biology*.
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, et al. Statistically-estimated tree composition for the northeastern United States at the time of Euro-American settlement. *PLoS One*. [[preprint](http://arxiv.org/abs/1508.07509), PONE-D-15-41521]<br>
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. Calibrating the pollen vegetation relationship. *Quaternary Science Reviews*. [JQSR-D-15-00503]<br>
 
 SOFTWARE
 --------
