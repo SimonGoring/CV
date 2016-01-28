@@ -1,5 +1,5 @@
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 # Simon James Goring
 
 Department of Geography, University of Wisconsin, 550 North Park St, Madison WI, 53706<br>
@@ -36,9 +36,8 @@ EDUCATION
     <td>Forest Technician Diploma, Sir Sandford Fleming College  Lindsay, ON</td>
   </tr>
 </table>
-
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## PROFESSIONAL EXPERIENCE
 
 ### Research Positions
@@ -70,8 +69,8 @@ EDUCATION
   </tr>
 </table>
  
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## PUBLICATIONS
 
 ### Alternative Publication Metrics (AltMetrics):  
@@ -104,8 +103,8 @@ EDUCATION
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Pellatt MG, Lacourse T, Walker IR, Mathewes RW. (2009) A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. *Journal of Biogeography*. **36**:626-638. [[Link](http://dx.doi.org/10.1111/j.1365-2699.2008.02021.x)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. (2007) Pollination, Floral Display, and the Ecological Correlates of Polyploidy. *Functional Ecosystems and Communities*. **1**: 1-9. [[Open Access](http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf)]<br>
 
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## OTHER PUBLICATIONS
 ### Software
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Blaauw M & Goring SJ. 2014. clam: Classic age modeling in R. [[GitHub](https://github.com/SimonGoring/clam)]<br>
@@ -117,8 +116,8 @@ EDUCATION
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Blois J, Goring S, Smith A.  (2011)  Integrating paleoecological databases: the Neotoma Consortium Workshop, September 23- 2 26, 2010.  *EOS Transactions of the AGU*. **92**:48. [[Link](http://ccr.aos.wisc.edu/resources/publications/pdfs/CCR_1018.pdf)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Mooers AO, Goring SJ, Turvey S, Kuhn T. (2009) "Holocene extinctions and the loss of feature diversity". Holocene Extinctions (S. Turvey, ed.) Oxford University Press, Oxford. [[Link](http://www.sfu.ca/~amooers/papers/Mooers_etal_Holocene08.pdf)]<br>
 
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## GRANTS
 ### Awarded
 **2015**	Building Interoperable Cyberinfrastructure (CI) at the Interface between Paleogeoinformatics and Bioinformatics ($285,000 – NSF EarthCube Integrative Activities)<br>
@@ -134,8 +133,8 @@ EDUCATION
 **2014**	Building Interoperable Cyberinfrastructure at the Interface between Paleogeoinformatics and Bioinformatics – co-PI (NSF Advances in Biological Informatics, 2yr – $1,500,000)<br>
 **2014**  Pollen: Field, Laboratory, and Data Analysis workshop, University of Maine (PAGES, $10,000)<br>
 
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## TEACHING
 **2015**  GEOG378: Hybrid-online - Introduction to Geocomputing (University of Wisconsin). 3 credit introduction to scientific programming with Python, GDAL & command line geospatial computing.<br>
 **2014**  Pollen: Field, Laboratory, and Data Analysis workshop.  Instructor & co-lead. University of Maine, June 2014<br>
@@ -146,9 +145,8 @@ EDUCATION
 **2009**	Using R for Paleoecological Research	University of the Fraser Valley, Abbotsford, BC. One day seminar introducing R workflows for paleoecological research<br>
 **2008** 	Paleobiology and Palynology (TA)	Simon Fraser University<br>
 **2007**	General Biology (TA)	Simon Fraser University<br>
- 
+ * * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## PRESENTATIONS
 ### Invited Presentations and Workshops
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S. The neotoma package and semi-automated chronology construction for paleoecological databases.  *Neotoma Chronology Workshop*. Belfast UK, January 2014.
@@ -173,9 +171,8 @@ EDUCATION
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Dietze MC, Jackson ST, Mladenoff D, Cogbill C, Zhu J, Thurman A, Brooks W.  Reliable gridded estimates of pre-settlement vegetation for the Upper Midwest from Public Land Survey Data.  American Quaternary Association Meeting, June 2012.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Lacourse T, Pellatt MG, & RW Mathewes. How sensitive are pollen-based climate models to large-scale vegetation change?  An example from Marion Lake, British Columbia. CANQUA. May 4-8th 2009.  Vancouver, British Columbia.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Kuhn TS, Goring SJ & AO Mooers.  Late-Quaternary extinctions and the shape of the Mammalian tree of life.  CANQUA. May 4-8th 2009.  Vancouver, British Columbia.
-
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## AWARDS AND RECOGNITION
 **2015**  Earthcube Distinguished Lecturer - Early Career ($600 - National)<br>
 **2015**	Climate Informatics 2015 ($1100 Travel Grant - National)<br>
@@ -190,9 +187,8 @@ EDUCATION
 **2007**	Iowa Lakeside Laboratory Scholarship ($390 - Iowa State University)<br>
 **2004**	van Adrichem Summer Research Bursary ($600 - UNBC)<br>
 **1999**	JB Goodhew Award (Recognition, Sir Sanford Fleming College)<br>
-
+* * *
 <sup>[Contact](#contact) • [Education](#education) • [Experience](#professional-experience) • [Publication](#publications) • [Other Publication](#other-publications) • [Grants](#grants) • [Teaching](#teaching) • [Presentations](#presentations) • [Awards](#awards-and-recognition) • [Service](#public-service)</sup>
-
 ## PUBLIC SERVICE
 ### University Service
 
