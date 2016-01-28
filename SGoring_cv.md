@@ -95,16 +95,12 @@ Alternative Publication Metrics (AltMetrics):
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring S, Pellatt MG, Lacourse T, Walker IR, Mathewes RW. (2009) A new methodology for reconstructing climate and vegetation from modern pollen assemblages: an example from British Columbia. *Journal of Biogeography*. **36**:626-638. [[Link](http://dx.doi.org/10.1111/j.1365-2699.2008.02021.x)]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Vamosi J, Goring S, Kennedy B, Mayberry R, Moray C, Neame LA, Tunbridge ND, Elle E. (2007) Pollination, Floral Display, and the Ecological Correlates of Polyploidy. *Functional Ecosystems and Communities*. **1**: 1-9. [[Open Access](http://www.globalsciencebooks.info/JournalsSup/images/Sample/FEC_1%281%291-9.pdf)]<br>
 
-Accepted - In Revision
+Accepted
 --------
+<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in forest composition, stem density, and biomass from the settlement era (1800s) to present in the Upper Midwestern United States. *PLoS One*. [[Preprint](http://biorxiv.org/content/early/2015/09/11/026575), PONE-D-15-43554]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Matthes, J.H., S. Goring, J.W. Williams, M.C. Dietze. Historic vegetation reconstruction benchmarks pre-industrial land-climate feedbacks.  *Global Change Biology*.
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Paciorek C, Goring SJ, Thurman A, Cogbill C, Williams J, Mladenoff D, et al. Statistically-estimated tree composition for the northeastern United States at the time of Euro-American settlement. *PLoS One*. [[preprint](http://arxiv.org/abs/1508.07509), PONE-D-15-41521]<br>
 <p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Dawson A, Paciorek C, McLachlan J, Goring S, Williams JW, Jackson S. Calibrating the pollen vegetation relationship. *Quaternary Science Reviews*. [JQSR-D-15-00503]<br>
-
-In Review
---------
-
-<p style="margin-left:.1in;text-indent:-.1in;font-size:small;">Goring SJ, Williams JW, Mladenoff DJ, Cogbill CV, Record S, Paciorek CJ, Jackson ST, Dietze MC, Matthes JH, McLachlan JS. Changes in forest composition, stem density, and biomass from the settlement era (1800s) to present in the Upper Midwestern United States. *PLoS One*. [[Preprint](http://biorxiv.org/content/early/2015/09/11/026575), PONE-D-15-43554]<br>
 
 SOFTWARE
 --------
